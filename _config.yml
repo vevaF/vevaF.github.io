@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "I'm not a cat"
+  name             : "Viktoria E. Freingruber - this cat is not me, although I wish"
   avatar           : "vikicat.png"
-  bio              : "PhD student in Mathematical Biology, working on models for collective cell migration"
+  bio              : "PhD Applied Mathematics | Connecting Biology and Mathematics"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "v.freingruber@sms.ed.ac.uk"
+  email            :  "v.e.freingruber@tudelft.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
