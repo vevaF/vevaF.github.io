@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Viktoria E. Freingruber - this cat is not me, although I wish"
-  avatar           : "vikicat.png"
+  name             : "Viktoria E. Freingruber"
+  avatar           : "ich.jpg"
   bio              : "PhD Applied Mathematics | Connecting Biology and Mathematics"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vevaF"
+  github           : "https://github.com/vevaF"
   google_plus      :
   keybase          :
   instagram        :
