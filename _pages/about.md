@@ -37,8 +37,9 @@ Cells often migrate collectively while responding to chemical cues in their envi
 - *Mathematical modeling of collective cell migration: Cell trait structures and intracellular variables* (PhD thesis, [link](https://www.ros.hw.ac.uk/handle/10399/5113))  
 
 ### Biofilm models for quorum sensing and quorum quenching  
-I am interested in how microbial populations coordinate their behaviour through **quorum sensing**, and how this can be disrupted via **quorum quenching** strategies. Together with collaborators, I worked on models that couple biofilm growth with quorum sensing signalling molecules and their enzymatic degradation. This research also explored possible applications of quorum quenching as an **adjuvant to antibiotic treatment**.  
-- *A mathematical model of quorum quenching in biofilms and its potential role as an adjuvant for antibiotic treatment* ([link](https://doi.org/10.5206/mase/14612))  
+I am interested in how microbial populations coordinate their behaviour through **quorum sensing**, and how this can be disrupted via **quorum quenching** strategies. Together with collaborators, I worked on models that couple biofilm growth with quorum sensing signalling molecules and their enzymatic degradation. This research also explored possible applications of quorum quenching as an **adjuvant to antibiotic treatment**. 
+- *A mathematical model of quorum quenching in biofilms and its potential role as an adjuvant for antibiotic treatment* ([link](https://doi.org/10.5206/mase/14612))
+- 
 ---
 
-Outside of research, I enjoy spending time in nature — running or hiking through local forests and dune parks, swimming at the beach all year round, and more recently also cycling, which lets me explore places that are a little out of reach on foot. I’m also a cat enthusiast and volunteer regularly at a cat shelter; so if you live in the area around Den Haag, Netherlands and are thinking about adopting a cat, feel free to reach out — I meowght have some insider tips! 🐾
+Outside of research, I enjoy spending time in nature — running or hiking through local forests and dune parks, swimming at the beach all year round, and more recently also cycling, which lets me explore places that are a little out of reach on foot. I’m also a cat enthusiast and volunteer regularly at a cat shelter; so if you are thinking about adopting a cat and live in the area around Den Haag, Netherlands feel free to reach out — I meowght have some insider tips! 🐾
