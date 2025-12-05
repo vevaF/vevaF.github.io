@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome! 
 
-I am an applied mathematician working with a focus on **mathematical biology**.  
+I am an applied mathematician with a focus on **mathematical biology**.  
 My work comprises modelling, analysis and computation to investigate natural phenomena — from **bacterial biofilms** and their ecological interactions, to **cell migration** during development and disease. By combining individual-based, continuum, and structured population approaches, I study how living systems self-organise, form patterns, and coordinate collective behaviour.
 
 Currently, I am a postdoc at **TU Delft**, working jointly at the [Delft Institute for Applied Mathematics](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics) and the [Department of Biotechnology](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/biotechnology), where I collaborate with [Havva Yoldaş](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/people/dr-h-havva-yoldas) and [Rebeca Gonzalez Cabaleiro](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/biotechnology/research-sections/environmental-biotechnology/rebeca-gonzalez-cabaleiro).  
