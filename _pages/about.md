@@ -11,13 +11,13 @@ redirect_from:
 # Welcome! 
 
 I am an applied mathematician with a focus on **mathematical biology**.  
-My work comprises modelling, analysis and computation to investigate natural phenomena — from **bacterial biofilms** and their ecological interactions, to **cell migration** during development and disease. By combining individual-based, continuum, and structured population approaches, I study how living systems self-organise, form patterns, and coordinate collective behaviour.
+My work comprises modelling, analysis and computation to investigate natural phenomena — from **bacterial biofilms** and their ecological interactions, to **cell migration** of heterogeneous populations during development and disease. By combining individual-based, continuum, and structured population approaches, I study how living systems self-organise, form patterns, and coordinate collective behaviour.
 
 Currently, I am a postdoc at **TU Delft**, working jointly at the [Delft Institute for Applied Mathematics](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics) and the [Department of Biotechnology](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/biotechnology), where I collaborate with [Havva Yoldaş](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/people/dr-h-havva-yoldas) and [Rebeca Gonzalez Cabaleiro](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/biotechnology/research-sections/environmental-biotechnology/rebeca-gonzalez-cabaleiro).  
 
 Previously, I completed my PhD in the [MAC-MIGS](https://www.mac-migs.ac.uk/) Centre for Doctoral Training, a joint doctoral programme in applied mathematics between **Heriot-Watt University** and the **University of Edinburgh**. My doctoral work was supervised by [Kevin Painter](https://www.polito.it/en/staff?p=kevin.painter), [Mariya Ptashnyk](https://www.macs.hw.ac.uk/~mp91/) and [Linus Schumacher](https://www.ed.ac.uk/regenerative-medicine/research/linus-schumacher), and focused on mathematical models for **collective cell migration**.  
 
-I am always open to discussions and at the moment also for new collaborations on intreesting topis - feel free to reach out via email (v.e.freingruber@tudelft.nl).
+You can reach me here: v.e.freingruber@tudelft.nl
 
 ---
 
