@@ -25,7 +25,7 @@ You can reach me here: v.e.freingruber@tudelft.nl
 
 ### Multi-species bacterial populations with ecological interactions
 In my current postdoctoral work, I study **multi-species bacterial communities**, focusing on how different types of ecological interactions — such as **competition, commensalism, and neutralism** — shape their spatial organisation and long-term dynamics. These models aim to capture the balance between species, how they coexist, and under which conditions one might dominate or suppress another. A key goal is to connect these theoretical insights with experimental observations of microbial aggregates and biotechnological applications.
-- *Ecological Interactions and Spatial Distributions in Microbial Aggregates: A Theoretical Modelling Framework* with H. Yoldaş, R. Gonzalez Cabaleiro (preprint available on request)
+- *Ecological Interactions and Spatial Dynamics in Microbial Aggregates: A Novel Modelling Framework* with H. Yoldaş, R. Gonzalez-Cabaleiro [preprint](https://doi.org/10.48550/arXiv.2512.13156)
 - *Slow-fast dynamics in a spatial multi-species system for nitrifying bacteria* (in preparation)
 
 ### Derivation of continuous models from trait-structured interacting particle systems
