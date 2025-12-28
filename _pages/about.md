@@ -51,3 +51,6 @@ I am interested in how microbial populations coordinate their behaviour through 
 ---
 
 Outside of research, I enjoy spending time in nature — running or hiking through local dune parks, swimming in the sea all year round, and more recently also cycling, which lets me explore places that are a little out of reach on foot. I’m also a cat enthusiast and volunteer regularly at a [local cat shelter](https://ndz.nl/asiel/); so if you are thinking about adopting a cat and live around Den Haag, Netherlands feel free to reach out — I might have some insider tips! 🐾
+
+* <small> The portrait was taken by [Verena Freingruber](https://www.verenafreingruber.com).</small>
+
