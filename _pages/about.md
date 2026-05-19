@@ -17,7 +17,7 @@ Currently, I am a postdoc at **TU Delft**, working jointly at the [Delft Institu
 
 Previously, I completed my PhD in the [MAC-MIGS](https://www.mac-migs.ac.uk/) Centre for Doctoral Training, a joint doctoral programme in applied mathematics between **Heriot-Watt University** and the **University of Edinburgh**. My doctoral work was supervised by [Kevin Painter](https://www.polito.it/en/staff?p=kevin.painter), [Mariya Ptashnyk](https://www.macs.hw.ac.uk/~mp91/) and [Linus Schumacher](https://www.ed.ac.uk/regenerative-medicine/research/linus-schumacher), and focused on mathematical models for **collective cell migration**.  
 
-You can reach me here: v.e.freingruber@tudelft.nl
+You can reach me here: viktoria.freingruber@proton.me
 
 ---
 
