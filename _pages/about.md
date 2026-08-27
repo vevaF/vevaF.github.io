@@ -13,15 +13,21 @@ redirect_from:
 I am an applied mathematician with a focus on **mathematical biology**.  
 My work comprises modelling, analysis and computation to investigate natural phenomena — from **bacterial biofilms** and their ecological interactions, to **cell migration** of heterogeneous populations during development and disease. By combining individual-based, continuum, and structured population approaches, I study how living systems self-organise, form patterns, and coordinate collective behaviour.
 
-Currently, I am a postdoc at **TU Delft**, working jointly at the [Delft Institute for Applied Mathematics](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics) and the [Department of Biotechnology](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/biotechnology), where I collaborate with [Havva Yoldaş](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/people/dr-h-havva-yoldas) and [Rebeca Gonzalez Cabaleiro](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/biotechnology/research-sections/environmental-biotechnology/rebeca-gonzalez-cabaleiro).  
+At the moment, I am a postdoctoral fellow at the **Netherlands Cancer Institute** (Antoni van Leeuwenhoek), where I work with [Kevin Groot Lipman](https://www.nki.nl/research/find-a-researcher/researchers/kevin-groot-lipman) and [Sjaak Burgers](https://www.avl.nl/specialisten-medewerkers/specialisten/longartsen/sjaak-burgers/) on modelling tumour volume dynamics in pleural mesothelioma. Building on my background in mathematical modelling of biological systems, I combine mechanistic modelling with statistical and data-driven approaches to investigate how heterogeneous tumours evolve and respond to treatment. With access to a large longitudinal clinical dataset, I will explore a range of modelling approaches, including classical tumour growth models and neural ODEs, to investigate the dynamics captured in the data.
 
-Previously, I completed my PhD in the [MAC-MIGS](https://www.mac-migs.ac.uk/) Centre for Doctoral Training, a joint doctoral programme in applied mathematics between **Heriot-Watt University** and the **University of Edinburgh**. My doctoral work was supervised by [Kevin Painter](https://www.polito.it/en/staff?p=kevin.painter), [Mariya Ptashnyk](https://www.macs.hw.ac.uk/~mp91/) and [Linus Schumacher](https://www.ed.ac.uk/regenerative-medicine/research/linus-schumacher), and focused on mathematical models for **collective cell migration**.  
+Previously, I was a postdoc at **TU Delft**, working jointly at the [Delft Institute for Applied Mathematics](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics) and the [Department of Biotechnology](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/biotechnology), where I collaborated with [Havva Yoldaş](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/people/dr-h-havva-yoldas) and [Rebeca Gonzalez Cabaleiro](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/biotechnology/research-sections/environmental-biotechnology/rebeca-gonzalez-cabaleiro).  
 
-You can reach me here: viktoria.freingruber@proton.me
+Before that, I completed my PhD in the [MAC-MIGS](https://www.mac-migs.ac.uk/) Centre for Doctoral Training, a joint doctoral programme in applied mathematics between **Heriot-Watt University** and the **University of Edinburgh**. My doctoral work was supervised by [Kevin Painter](https://www.polito.it/en/staff?p=kevin.painter), [Mariya Ptashnyk](https://www.macs.hw.ac.uk/~mp91/) and [Linus Schumacher](https://www.ed.ac.uk/regenerative-medicine/research/linus-schumacher), and focused on mathematical models for **collective cell migration**.  
+
+You can reach me here: v.freingruber@nki.nl - viktoria.freingruber@proton.me
 
 ---
 
 ## Research interests  
+
+### Data-driven modelling of tumour dynamics
+I currently work on data-driven modelling of heterogeneous tumour dynamics in pleural mesothelioma, combining mathematical and statistical modelling with longitudinal patient data. My work explores different approaches to describing tumour development under treatment, including mechanistic models and neural ODEs.
+
 
 ### Multi-species bacterial populations with ecological interactions
 In my current postdoctoral work, I study **multi-species bacterial communities**, focusing on how different types of ecological interactions — such as **competition, commensalism, and neutralism** — shape their spatial organisation and long-term dynamics. These models aim to capture the balance between species, how they coexist, and under which conditions one might dominate or suppress another. A key goal is to connect these theoretical insights with experimental observations of microbial aggregates and biotechnological applications.
@@ -50,7 +56,7 @@ I am interested in how microbial populations coordinate their behaviour through 
   
 ---
 
-Outside of research, I enjoy spending time in nature — running or hiking through local dune parks, swimming in the sea all year round, and more recently also cycling, which lets me explore places that are a little out of reach on foot. I’m also a cat enthusiast and volunteer regularly at a [local cat shelter](https://ndz.nl/asiel/); so if you are thinking about adopting a cat and live around Den Haag, Netherlands feel free to reach out — I might have some insider tips! 🐾
+[//]: <> (Outside of research, I enjoy spending time in nature — running or hiking through local dune parks, swimming in the sea all year round, and more recently also cycling, which lets me explore places that are a little out of reach on foot. I’m also a cat enthusiast and volunteer regularly at a [local cat shelter](https://ndz.nl/asiel/); so if you are thinking about adopting a cat and live around Den Haag, Netherlands feel free to reach out — I might have some insider tips! 🐾)
 
 <small> Photo by [Verena Freingruber](https://www.verenafreingruber.com).</small>
 
