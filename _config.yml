@@ -83,10 +83,10 @@ author:
   name             : #"Viktoria E. Freingruber"
   avatar           : "viki1.jpg"
   bio              : ""
-  employer         : "TU Delft"
+  employer         : ""
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "v.e.freingruber@tudelft.nl"
+  email            :  "v.freingruber@nki.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
